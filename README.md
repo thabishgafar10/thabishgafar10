@@ -27,24 +27,25 @@ I focus on building **practical AI systems**, not just models.
 
 ## 🚀 Featured Projects
 
-### 🔹 Coffee Price Prediction System
-- 📊 Predicts weekly coffee prices using historical + external data  
-- ⚙️ Built with ML models + real-world business logic  
-- 🎯 Designed to support **decision-making in a live business (family business use case)**  
+### 🔹 CarPulse AI System
+- 🚗 Tracks and stores detailed **car logs, usage history, and performance data**  
+- 🤖 Built as an **agentic AI system** for intelligent monitoring and automation  
+- ⚙️ Integrates backend + AI to provide **insights, alerts, and predictive maintenance support** 
 
 ---
 
-### 🔹 AI Student Recommendation System
-- 🤖 Personalized learning recommendations using AI  
-- 📈 Tracks performance beyond academics  
-- 🧠 Focus on **practical skill development insights**
+### 🔹 Insurance Premium Prediction System
+- 📊 Predicts customer insurance premiums using features like **age, BMI, lifestyle, and smoking habits**  
+- 🤖 Built with ML models to identify **risk patterns and pricing factors**  
+- 🎯 Helps simulate **fair and data-driven premium estimation for real-world scenarios**
 
 ---
 
-### 🔹 Full Stack ML Deployment System
-- ⚙️ Model → API → Frontend pipeline  
-- 🌐 Built using FastAPI + modern frontend  
-- 🚀 Focus on **production-ready AI systems**
+### 🔹 Campus Mitra (AI-Powered Academic Management System)
+- 🏫 Multi-role platform with **Admin, Principal, HOD, Lecturer, and Student dashboards**  
+- 🤖 Integrates **agentic AI** for intelligent automation and decision support across modules  
+- 📄 Features a **resume analyzer** that suggests skill improvements, curated resources (via web scraping), and structured **1-week learning plans**  
+- 🎯 Enables **HODs to assign subjects strategically**, while Admins manage faculty and system operations efficiently
 
 ---
 
