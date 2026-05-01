@@ -68,20 +68,12 @@ I focus on building **practical AI systems**, not just models.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
-</p>
-
----
-
 ## 🏆 Achievements
 
-- 🚀 Built multiple **end-to-end AI systems**
-- 📊 Working on **real business problem (price prediction)**
-- 🧠 Strong focus on **applied AI over theory**
+- 🏆 Winner of **Xypher Hackathon**  
+- 🥇 Champion in **Techno Management Fest**  
+- 🎖 Recognized in **Hebbale Academy Hackathon**  
+- 📄 **CarPulse AI** published in a conference
 
 ---
 
