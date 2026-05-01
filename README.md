@@ -12,7 +12,6 @@ I focus on building **practical AI systems**, not just models.
 - ⚙️ Developing **end-to-end ML pipelines** (data → training → API → deployment)
 - 🤖 Exploring **Agentic AI systems & intelligent automation**
 - 🌐 Strong interest in **backend architecture & scalable systems**
-- 📊 Currently working on **real-world prediction systems (finance + business use cases)**
 
 ---
 
